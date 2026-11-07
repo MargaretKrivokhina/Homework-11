@@ -116,15 +116,11 @@ nav a {
 /* HERO */
 
 .hero {
-  padding-top: 138px;
+  padding-top: 178px;
   background-color: var(--background-color);
-}
-
-.hero .container {
-  padding-top: 40px;
   background-image: url(../images/background.png);
   background-repeat: no-repeat;
-  background-position: right bottom;
+  background-position: left calc(50% + 330px) bottom 0;
 }
 
 .hero h1 {
